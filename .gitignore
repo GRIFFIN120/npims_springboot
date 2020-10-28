@@ -1,0 +1,11 @@
+# Project exclude paths
+/vala-commons/target/
+/vala-service-base/target/
+/vala-service-base-meta/target/
+/vala-service-base-user/target/
+/vala-service-jsoup/target/
+/vala-service-map/target/
+/vala-service-npims-info/target/
+/vala-service-npims-park/target/
+/vala-service-websocket/target/
+/vala-web-npims/target/
